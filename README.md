@@ -1,11 +1,5 @@
 # TP Arquitectura de Software 1 — Dominio 2B · Inspecciones de obra municipales
 
-## Integrantes
-- Thiago Garcia
-- Carolina Rodriguez
-- Valentin Varela
-- Aldana Gomez
-
 [Informe de Arquitectura](https://docs.google.com/document/d/1CvTt-X90DKGGSAZpIrN9Bs9hy3g-LwBgCctXp4BYaGA/edit?usp=sharing)
 
 [Presentacion](https://canva.link/0n7gxuiwo6t6ex5)
