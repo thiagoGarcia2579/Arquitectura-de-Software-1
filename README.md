@@ -1,8 +1,8 @@
 # TP Arquitectura de Software 1 — Dominio 2B · Inspecciones de obra municipales
 
--[Informe de Arquitectura](./Informe%20Arquitectura%20de%20Software%20TP.pdf)
+[Informe de Arquitectura](./Informe%20Arquitectura%20de%20Software%20TP.pdf)
 
--[Presentacion](https://canva.link/0n7gxuiwo6t6ex5).
+[Presentacion](https://canva.link/0n7gxuiwo6t6ex5).
 
 **Escenario 2B · Municipio extenso** (120 inspectores, zonas sin señal, NFR estrella: funcionamiento sin conexión).
 
